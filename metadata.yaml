@@ -1,0 +1,34 @@
+_repo: The-Inner-SisterhoodA-Social-Study-in-High-Colors_15179
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sherley, Douglass
+    alias: Sherley, George Douglass
+    birthdate: 1857
+    deathdate: 1917
+    gutenberg_agent_id: '5702'
+    url: http://www.gutenberg.org/2009/agents/5702
+description: ''
+gutenberg_issued: '2005-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15179'
+  lccn: '30013041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+tableOfContents: 'Just after the ball: Miss Kate Meadows -- Robert Fairfield, lover:
+  Miss Belle Mason -- The buzz-saw girl: Miss Alice Wing -- Flirting for revenue only:
+  Miss Rose Clendennin -- Mother and daughter: Miss Sophia Gilder -- A case of compound
+  fracture: Miss Mary Lee Manley -- Platitudes and pleasures: Miss Lena Searlwood.'
+title: 'The Inner Sisterhood
+
+  A Social Study in High Colors'
+url: http://www.gutenberg.org/ebooks/15179
